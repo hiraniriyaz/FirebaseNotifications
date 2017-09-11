@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "852760949374",
+    "firebase_url": "https://fir-notification-437ef.firebaseio.com",
+    "project_id": "fir-notification-437ef",
+    "storage_bucket": "fir-notification-437ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852760949374:android:6ca83fc546880c30",
+        "android_client_info": {
+          "package_name": "com.example.riyaz.pushnotificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852760949374-jc4eo6hseit93jjv6rtc7sn1l26ff0t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riyaz.pushnotificationexample",
+            "certificate_hash": "ec8f77e5461182992340613b3dd0d60826bbcbe4"
+          }
+        },
+        {
+          "client_id": "852760949374-70vc7ucacs6r3cftcpi1rpvjohc6tasf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEj5xSJaoLl0wem7uT0uDusMygdRuPo18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852760949374-70vc7ucacs6r3cftcpi1rpvjohc6tasf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852760949374:android:d45b8c60cb79cef8",
+        "android_client_info": {
+          "package_name": "com.example.riyaz.pushnotificationexample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852760949374-0et43osf87s4eju1qg3tfob4bi9iu1s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riyaz.pushnotificationexample2",
+            "certificate_hash": "ec8f77e5461182992340613b3dd0d60826bbcbe4"
+          }
+        },
+        {
+          "client_id": "852760949374-70vc7ucacs6r3cftcpi1rpvjohc6tasf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEj5xSJaoLl0wem7uT0uDusMygdRuPo18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852760949374-70vc7ucacs6r3cftcpi1rpvjohc6tasf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
